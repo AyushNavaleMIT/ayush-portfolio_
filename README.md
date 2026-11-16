@@ -44,3 +44,6 @@ All asset paths are relative, so it works under the sub-path.
 
 ## Placeholders still to fill
 Email, LinkedIn, project repository/demo links, project tech stacks, certificate images and verification links, timeline dates, Open Graph preview image.
+
+## visit link
+https://ayushnavalemit.github.io/ayush-portfolio_/
